@@ -1,0 +1,2 @@
+//This plugin adds forked run capabilities for Play projects which is needed for Activator
+addSbtPlugin("com.typesafe.play" % "sbt-fork-run-plugin" % "2.5.4")

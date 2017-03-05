@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(H:\workspace\funny\conf\application.conf,H:\workspace\funny\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(H:\workspace\funny\conf\logback.xml,H:\workspace\funny\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(H:\workspace\funny\conf\routes,H:\workspace\funny\target\scala-2.11\classes\routes)[0m
